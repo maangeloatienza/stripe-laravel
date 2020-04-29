@@ -1,7 +1,9 @@
 # Add this to your **.env** file
 
-STRIPE_PUBLISHABLE_KEY=stripe-publishable-key
-STRIPE_SECRET_KEY=stripe-secret-key
+STRIPE_PUBLISHABLE_KEY=stripe-publishable-key   
+
+STRIPE_SECRET_KEY=stripe-secret-key   
+
 STRIPE_CURRENCY=USD
 
 ### Note:
